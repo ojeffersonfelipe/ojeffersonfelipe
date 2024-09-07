@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ojeffersonfelipe
-- 👀 I’m interested in to learn Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in to build in investment app as a project.
+- 🌱 I’m currently learning C# and Vue.js
 - 💞️ I’m looking to collaborate on small projects
 
 
